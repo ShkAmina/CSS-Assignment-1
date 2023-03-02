@@ -1,0 +1,39 @@
+.heading-1
+{
+  color: orangered;
+  font-style: italic;
+}
+.ollist
+{
+    color: brown;
+}
+.line
+{
+    text-decoration: line-through;
+    font-weight:bold;
+}
+.mark
+{
+    color: brown;
+    font-weight:bold;
+}
+.ullist
+{
+    color: brown;
+    letter-spacing: 3px;
+}
+.para
+{
+    color: rgb(131, 60, 19);
+    word-spacing: 2px;
+    line-height: 130%;
+   
+}
+.link
+{
+    color:red;
+    text-decoration: none;
+    font-style: italic;
+    font-weight: bold;
+    background-color: yellow;
+}
